@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7901c836-a699-446b-8a14-6c8b6fd488d0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/hooks/fsmonitor-watchman.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/hooks/pre-merge-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/hooks/push-to-checkout.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/hooks/sendemail-validate.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/objects/pack/pack-6639e1429b492cd51189acde43ea30fb29be22ed.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/objects/pack/pack-6639e1429b492cd51189acde43ea30fb29be22ed.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/objects/pack/pack-6639e1429b492cd51189acde43ea30fb29be22ed.rev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/packed-refs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2d2pDsCgJ7fdN1LD9GP42RTZtFk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/opencv/lab01&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7901c836-a699-446b-8a14-6c8b6fd488d0" name="Changes" comment="" />
+      <created>1709215910412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709215910412</updated>
+    </task>
+    <servers />
+  </component>
+</project>
