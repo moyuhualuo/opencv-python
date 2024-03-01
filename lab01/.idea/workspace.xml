@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7901c836-a699-446b-8a14-6c8b6fd488d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/HEAD" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/config" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/description" beforeDir="false" />
@@ -27,6 +28,10 @@
       <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/objects/pack/pack-6639e1429b492cd51189acde43ea30fb29be22ed.pack" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/objects/pack/pack-6639e1429b492cd51189acde43ea30fb29be22ed.rev" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../..//CMU-DB/bustub-public/packed-refs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creat_char('a').py" beforeDir="false" afterPath="$PROJECT_DIR$/01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/show_and_save.py" beforeDir="false" afterPath="$PROJECT_DIR$/03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
