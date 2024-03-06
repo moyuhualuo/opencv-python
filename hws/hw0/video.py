@@ -1,6 +1,7 @@
 import cv2
 import datetime
 
+
 def cap():
     cap0 = cv2.VideoCapture(0)  # init cap
 
@@ -44,7 +45,8 @@ def save_cap():
     out.release()
     cv2.destroyAllWindows()
 
-def canny
+
+def canny():
     mp4 = cv2.VideoCapture('clock_-_28723 (720p).mp4')
     while mp4.isOpened():
         ret, frame = mp4.read()
