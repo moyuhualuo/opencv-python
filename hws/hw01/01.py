@@ -37,10 +37,10 @@ def license_plate(address, a, b, c, d, w=None, write_file=None):
 
 '''Drop '#' to use these function, but first you should know function what to do'''
 '''Don't write'''
-# license_plate('track.png', 467, 500, 447, 542)
+license_plate('track.png', 467, 500, 447, 542)
 
 '''write'''
-# license_plate('track.png', 467, 500, 447, 542, True, 'output_plate.png')
+license_plate('track.png', 467, 500, 447, 542, True, 'output_plate.png')
 
 '''light img '''
-# light('output_plate.png', -30)
+light('output_plate.png', -30)
