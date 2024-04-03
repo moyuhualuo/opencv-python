@@ -1,2 +1,3 @@
 # opencv-python
-Courses from universities
+Courses from my school
+
